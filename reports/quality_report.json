@@ -1,0 +1,62 @@
+{
+    "generated_at": "2026-10-09 18:58:03",
+    "file": "sample_files\\sample.py",
+    "summary": {
+        "function_count": 3,
+        "class_count": 1,
+        "import_count": 2,
+        "issue_count": 10
+    },
+    "issues": [
+        {
+            "line": 6,
+            "type": "Missing docstring",
+            "name": "calculate_area"
+        },
+        {
+            "line": 6,
+            "type": "Missing parameter type hint",
+            "name": "calculate_area.radius"
+        },
+        {
+            "line": 6,
+            "type": "Missing return type hint",
+            "name": "calculate_area"
+        },
+        {
+            "line": 10,
+            "type": "Missing docstring",
+            "name": "greet_user"
+        },
+        {
+            "line": 10,
+            "type": "Missing return type hint",
+            "name": "greet_user"
+        },
+        {
+            "line": 14,
+            "type": "Missing docstring",
+            "name": "Calculator"
+        },
+        {
+            "line": 15,
+            "type": "Missing docstring",
+            "name": "add"
+        },
+        {
+            "line": 15,
+            "type": "Missing parameter type hint",
+            "name": "add.a"
+        },
+        {
+            "line": 15,
+            "type": "Missing parameter type hint",
+            "name": "add.b"
+        },
+        {
+            "line": 15,
+            "type": "Missing return type hint",
+            "name": "add"
+        }
+    ]
+}
