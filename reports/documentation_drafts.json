@@ -1,0 +1,36 @@
+[
+    {
+        "type": "function",
+        "name": "calculate_area",
+        "line": 6,
+        "parameters": [
+            "radius"
+        ],
+        "draft": "Document the purpose of calculate_area. Explain its parameters: radius. Describe its return value and any side effects."
+    },
+    {
+        "type": "function",
+        "name": "greet_user",
+        "line": 10,
+        "parameters": [
+            "name"
+        ],
+        "draft": "Document the purpose of greet_user. Explain its parameters: name. Describe its return value and any side effects."
+    },
+    {
+        "type": "class",
+        "name": "Calculator",
+        "line": 14,
+        "draft": "Describe the responsibility of the Calculator class, its main attributes, and its public methods."
+    },
+    {
+        "type": "function",
+        "name": "add",
+        "line": 15,
+        "parameters": [
+            "a",
+            "b"
+        ],
+        "draft": "Document the purpose of add. Explain its parameters: a, b. Describe its return value and any side effects."
+    }
+]
